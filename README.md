@@ -3,7 +3,7 @@
 #### Team Name - SK
 #### Problem Statement - Diabetes, if left undiagnosed until later stages, becomes incurable. The delayed diagnosis of diabetes poses significant challenges in healthcare, as many individuals fail to recognize symptoms, leading to delayed treatment. Traditional diagnostic methods may miss cases due to the disease's complexity.By empowering early detection and intervention, we aim to enhance health outcomes. Utilising Big Data Analytics & Machine Learning in order to predict the risk of diabetes mellitus type 2 based on clinical parameters. This enables early detection of diabetes, eliminating the need for invasive diagnostic procedures. 
 
-## A Brief of the Prototype: 
+## A Brief Description of the Prototype: 
 
 Big Data Analytics is pivotal in the healthcare sector, offering significant contributions. By harnessing its power, one can delve into vast datasets, uncovering concealed insights and patterns to unearth valuable knowledge. Machine Learning emerges as a crucial tool within this framework, facilitating the prediction of outcomes with precision. Moreover, it enables the development of sophisticated algorithms capable of analyzing complex healthcare data, ultimately enhancing decision-making processes and improving patient care. 
 
