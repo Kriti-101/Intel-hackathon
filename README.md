@@ -1,7 +1,8 @@
 # Intel-hackathon
 
-#### Team Name - SK
-#### Problem Statement - Diabetes, if left undiagnosed until later stages, becomes incurable. The delayed diagnosis of diabetes poses significant challenges in healthcare, as many individuals fail to recognize symptoms, leading to delayed treatment. Traditional diagnostic methods may miss cases due to the disease's complexity.By empowering early detection and intervention, we aim to enhance health outcomes. Utilising Big Data Analytics & Machine Learning in order to predict the risk of diabetes mellitus type 2 based on clinical parameters. This enables early detection of diabetes, eliminating the need for invasive diagnostic procedures. 
+## Team Name - SK
+
+### Problem Statement - Diabetes, if left undiagnosed until later stages, becomes incurable. The delayed diagnosis of diabetes poses significant challenges in healthcare, as many individuals fail to recognize symptoms, leading to delayed treatment. Traditional diagnostic methods may miss cases due to the disease's complexity.By empowering early detection and intervention, we aim to enhance health outcomes. Utilising Big Data Analytics & Machine Learning in order to predict the risk of diabetes mellitus type 2 based on clinical parameters. This enables early detection of diabetes, eliminating the need for invasive diagnostic procedures. 
 
 ## A Brief Description of the Prototype: 
 
@@ -23,7 +24,7 @@ In hospitals, current method to detect diabetes is to collect blood samples and 
    
    XGBoost for Machine Learning
    
-## What I Learned:
+## Lessons Learnt:
    This hackathon has helped me gain practical experience and enhance my skills. 
 
 Machine Learning Fundamentals: Through the hackathon, I gained a solid understanding of machine learning concepts, including supervised learning, unsupervised learning, and possibly reinforcement learning. I learned about the importance of data preprocessing, feature engineering, model selection, and evaluation metrics.
